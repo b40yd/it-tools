@@ -107,7 +107,7 @@ const tools = computed<ToolCategory[]>(() => [
         </c-tooltip>
 
         <c-tooltip :tooltip="$t('home.drawDB')" position="bottom">
-          <c-button to="https://drawdb.zeroday.work" circle variant="text" :aria-label="$t('home.drawDB')">
+          <c-button href="https://drawdb.zeroday.work" target="_blank" variant="text" :aria-label="$t('home.drawDB')">
             <NIcon size="25" :component="Database" />
           </c-button>
         </c-tooltip>

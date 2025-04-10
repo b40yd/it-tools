@@ -7,6 +7,7 @@ home:
   subtitle: 'Handy tools for developers'
   toggleMenu: 'Toggle menu'
   home: Home
+  drawDB: drawDB
   uiLib: 'UI Lib'
   support: 'Support IT-Tools development'
   buyMeACoffee: 'Buy me a coffee'

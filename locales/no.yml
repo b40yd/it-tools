@@ -7,6 +7,7 @@ home:
   subtitle: 'Nyttige verktøy for utviklere'
   toggleMenu: 'Vekslemenmy'
   home: Hjem
+  drawDB: drawDB
   uiLib: 'UI Bib'
   support: 'Støtt utviklingen av IT-Tools'
   buyMeACoffee: 'Kjøp en kaffe til meg'

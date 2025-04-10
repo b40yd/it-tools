@@ -7,6 +7,7 @@ home:
   subtitle: 'Ferraentas úteis para desenvolvedores'
   toggleMenu: 'Menu'
   home: 'Início'
+  drawDB: 'drawDB'
   uiLib: 'Biblioteca de UI'
   support: 'Apoie o desenvolvimento do IT Tools'
   buyMeACoffee: 'Pague-me um café'
